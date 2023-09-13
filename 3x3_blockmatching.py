@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-img1 = cv2.imread('view1.png',0)
+img1 = cv2.imread('view1.png',0) #тут был я
 img2 = cv2.imread('view5.png',0)
 dp1 = cv2.imread('disp1.png',0)
 dp2 = cv2.imread('disp5.png',0)
