@@ -2,7 +2,7 @@
 import numpy as np
 import cv2
 
-img = cv2.imread('lena_gray.jpg',0)
+img = cv2.imread('lena_gray.jpg',0) #тут был я
 gxinit= np.zeros((514,514))
 gyinit= np.zeros((514,514))
 gx= np.zeros((514,514))
